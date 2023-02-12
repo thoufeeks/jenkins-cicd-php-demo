@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHsdP! sdsDeclarative 212pipeline!!</p>'; ?> 
+ <?php echo '<p>Hello world from PHsdP! sdsDeclarativepipeline!!</p>'; ?> 
  </body>
 </html>
